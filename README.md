@@ -1,2 +1,2 @@
-# Music-player-App
+# Music-player-App (Toy Project)
 Application toy project
