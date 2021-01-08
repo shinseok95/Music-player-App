@@ -90,7 +90,7 @@ class Adapter extends BaseAdapter {
 }
 
 class ViewHolder{
-
+ 
     ImageView albumArtID;
     TextView titleID;
 }
